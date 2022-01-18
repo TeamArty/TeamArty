@@ -29,9 +29,8 @@ I like having fun and exploring the programming world, mostly by making **Discor
 ## Languages / Tools 🛠️
 
 <img align="left" src="https://duckduckgo.com/i/5452000b.png" width=35px alt="ZorinOS" />
-<img align="left" src=" https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8nAVT4tTnoeqVj4ScdzPiwHaHY%26pid%3DApi&f=1" width=35px alt="VS Code" />
-<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pattasiwa.com%2Fassets%2Ficons%2Fhtml.png&f=1&nofb=1
-Css https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1" width=35px alt="HTML" />
+<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8nAVT4tTnoeqVj4ScdzPiwHaHY%26pid%3DApi&f=1" width=35px alt="VS Code" />
+<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pattasiwa.com%2Fassets%2Ficons%2Fhtml.png&f=1&nofb=1Css%20https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1" width=35px alt="HTML" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1" width=35px alt="CSS" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F01%2FJavaScript_Logo.png&f=1&nofb=1" width=35px alt="JavaScript" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fphp%2Fphp_PNG35.png&f=1&nofb=1" width=35px alt="PHP" />
