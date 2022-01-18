@@ -41,7 +41,7 @@ I like having fun and exploring the programming world, mostly by making **Discor
 <br />
 <br />
 
-## Latest Activity 🕒
+<!--## Latest Activity 🕒
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
