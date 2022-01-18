@@ -1,9 +1,13 @@
 # Hi, I'm <abbr title="TeamArt / TeamArty">Luka</abbr> 👋
+<br />
 I like having fun and exploring the programming world, mostly by making **Discord Bots** or **Minecraft Servers**!
 <br />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teamarty&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamarty&langs_count=8&layout=compact)
 </center>
+
+<br />
+<br />
 
 ##  Contact me / Socials 💬
 [<img align="left" src="https://crafatar.com/renders/head/afcfc118-6116-48af-a1e6-803477bfb247?overlay" width=35px alt="Website"/>][website]
@@ -16,6 +20,7 @@ I like having fun and exploring the programming world, mostly by making **Discor
 
 [<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.smash.gg%2Fimages%2FprofileWidgetPageLayout%2F222587%2Fimage-d6355c4e6c90dbe119cbcb2fdfb571e3.png%3Fformat%3Dauto%26width%3D900%26fit%3Dcover&f=1&nofb=1" width=35px alt="Twitch" />][twitch]
 
+<br />
 <br />
 
 ## Languages / Tools 🛠️
@@ -32,6 +37,7 @@ Css https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.forgecdn.net%2Fattachments%2F131%2F163%2Flogo-1000px.png&f=1&nofb=1" width=35px alt="Skript" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmpng.subpng.com%2F20180404%2Febw%2Fkisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg&f=1&nofb=1" width=35px alt="Java" />
 
+<br />
 <br />
 
 ## Latest Activity 🕒
