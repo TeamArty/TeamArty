@@ -1,10 +1,13 @@
 # Hi, I'm <abbr title="TeamArt / TeamArty">Luka</abbr> 👋
+
 <br />
+
 I like having fun and exploring the programming world, mostly by making **Discord Bots** or **Minecraft Servers**!
+
 <br />
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teamarty&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamarty&langs_count=8&layout=compact)
-</center>
 
 <br />
 <br />
