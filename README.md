@@ -35,7 +35,6 @@ I like having fun and exploring the programming world, mostly by making **Discor
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F01%2FJavaScript_Logo.png&f=1&nofb=1" width=35px alt="JavaScript" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fphp%2Fphp_PNG35.png&f=1&nofb=1" width=35px alt="PHP" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" width=35px alt="Git" />
-<img align="left" src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" width=35px alt="Bash" />
 <img align="left" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" width=35px alt="Skript" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.minecraftkrant.nl%2Fmedia%2F166%2Fjava-logo.png&f=1&nofb=1" width=35px alt="Java" />
 
