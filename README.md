@@ -7,7 +7,7 @@ I like having fun and exploring the programming world, mostly by making **Discor
 <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teamarty&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamarty&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamarty&langs_count=8&layout=compact&count_private=true)
 
 <br />
 <br />
