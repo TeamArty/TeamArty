@@ -15,7 +15,7 @@ I like having fun and exploring the programming world, mostly by making **Discor
 ##  Contact me / Socials 💬
 [<img align="left" src="https://crafatar.com/renders/head/afcfc118-6116-48af-a1e6-803477bfb247?overlay" width=35px alt="Website"/>][website]
 
-[<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fdiscord_logo1600.png&f=1&nofb=1" width=35px alt="Discord" />][discord]
+[<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F5zec9qw4ppy61.png&f=1&nofb=1" width=35px alt="Discord" />][discord]
 
 [<img align="left" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.vectorico.com%2Fdownload%2Fsocial_media%2FReddit-Icon.png&f=1&nofb=1" width=35px alt="Reddit" />][reddit]
 
@@ -31,7 +31,7 @@ I like having fun and exploring the programming world, mostly by making **Discor
 <img align="left" src="https://duckduckgo.com/i/5452000b.png" width=35px alt="ZorinOS" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" width=35px alt="VS Code" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pattasiwa.com%2Fassets%2Ficons%2Fhtml.png&f=1&nofb=1Css%20https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1" width=35px alt="HTML" />
-<img align="left" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fverekia.com%2F_pages%2Fcss3%2Fintroduction-css3%2Fimg%2Fcss3-logo.png&f=1&nofb=1" width=35px alt="CSS" />
+<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fcss-131-722685.png&f=1&nofb=1" width=35px alt="CSS" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F01%2FJavaScript_Logo.png&f=1&nofb=1" width=35px alt="JavaScript" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fphp%2Fphp_PNG35.png&f=1&nofb=1" width=35px alt="PHP" />
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" width=35px alt="Git" />
