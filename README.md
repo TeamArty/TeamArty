@@ -2,7 +2,7 @@
 
 <br />
 
-I like having fun and exploring the programming world, mostly by making **Discord Bots** or **Minecraft Servers**!
+I like having fun and exploring the programming world, mostly by making **Websites**, **Discord Bots** or **Minecraft Servers**!
 
 <br />
 
